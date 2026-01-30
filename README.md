@@ -747,8 +747,3 @@
 - [ ] [TryHackMe | The find command](https://tryhackme.com/room/thefindcommand)
 
 ---
-
-For better readability, **use my site** 👉  
-🔗 https://sangampaudel.info.np/
-
----
