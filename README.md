@@ -4,7 +4,7 @@
 
 ---
 
-- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt) - [READ WRITEUP]()
+- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt) - [Read Writeup]()
  
 - [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
