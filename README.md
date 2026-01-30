@@ -6,7 +6,7 @@
 
 ---
 
-- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt) - [Read Writeup]()
+- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/basic-rooms/1.md)
  
 - [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
