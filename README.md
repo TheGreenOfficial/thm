@@ -84,44 +84,6 @@
 
 - [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
-## Tooling
-
----
-
-- [ ] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
-
-- [ ] [TryHackMe | Metasploit](https://tryhackme.com/room/rpmetasploit)
-
-- [ ] [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
-
-- [ ] [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
-
-- [ ] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
-
-- [ ] [TryHackMe | Sublist3r](https://tryhackme.com/room/rpsublist3r)
-
-- [ ] [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
-
-- [ ] [TryHackMe | Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
-
-- [ ] [TryHackMe | Phishing: HiddenEye](https://tryhackme.com/room/phishinghiddeneye)
-
-- [ ] [TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
-
-- [ ] [TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
-
-- [ ] [TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
-
-- [ ] [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
-
-- [ ] [TryHackMe | TShark](https://tryhackme.com/room/tshark)
-
-- [ ] [TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
-
-- [ ] [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
-
-- [ ] [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
-
 ## Crypto & Hashes
 
 ---
