@@ -192,12 +192,6 @@
 
 - [ ] [TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)
 
-## Wi-Fi Hacking
-
----
-
-- [ ] [TryHackMe | Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
-
 ## Reverse Engineering
 
 ---
