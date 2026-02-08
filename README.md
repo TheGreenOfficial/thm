@@ -2,7 +2,7 @@
 
 ---
 
-## Basics Rooms
+## Basic Rooms
 
 ---
 
