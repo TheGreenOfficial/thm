@@ -118,10 +118,6 @@
 
 - [ ] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
-- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
-
-- [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
-
 - [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
 - [ ] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
