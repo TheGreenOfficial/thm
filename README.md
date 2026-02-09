@@ -112,12 +112,6 @@
 
 - [ ] [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
 
-- [ ] [TryHackMe | Injection](https://tryhackme.com/room/injection)
-
-- [ ] [TryHackMe | LFI Basics](https://tryhackme.com/room/lfibasics)
-
-- [ ] [TryHackMe | Inclusion](https://tryhackme.com/room/inclusion)
-
 - [ ] [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab)
 
 - [ ] [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)
