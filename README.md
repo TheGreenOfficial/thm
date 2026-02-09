@@ -96,8 +96,6 @@
 
 ---
 
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
-
 - [ ] [TryHackMe | WebAppSec 101](https://tryhackme.com/room/webappsec101)
 
 - [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
