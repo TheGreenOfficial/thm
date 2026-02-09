@@ -12,7 +12,7 @@
 
 - [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/basic-rooms/3.md)
 
-- [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
+- [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/basic-rooms/4.md)
 
 - [ ] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
