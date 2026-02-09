@@ -34,8 +34,6 @@
 
 - [ ] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
-- [ ] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
-
 - [ ] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
 
 - [ ] [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon)
