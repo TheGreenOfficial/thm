@@ -8,7 +8,7 @@
 
 - [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/basic-rooms/1.md)
  
-- [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
+- [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/basic-rooms/2.md)
 
 - [ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 
