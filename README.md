@@ -98,8 +98,6 @@
 
 - [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
-- [ ] [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
-
 - [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
 - [ ] [TryHackMe | Web Scanning](https://tryhackme.com/room/rpwebscanning)
