@@ -76,9 +76,9 @@
 
 - [ ] [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 
-- [ ] [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
-
 - [ ] [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
+
+- [ ] [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 
 ## Steganography
 
