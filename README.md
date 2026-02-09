@@ -10,7 +10,7 @@
  
 - [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/basic-rooms/2.md)
 
-- [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
+- [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/basic-rooms/3.md)
 
 - [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
