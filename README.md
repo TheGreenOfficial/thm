@@ -100,8 +100,6 @@
 
 - [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
-- [ ] [TryHackMe | Web Scanning](https://tryhackme.com/room/rpwebscanning)
-
 - [ ] [TryHackMe | OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)
 
 - [ ] [TryHackMe | WebGOAT](https://tryhackme.com/room/webgoat)
