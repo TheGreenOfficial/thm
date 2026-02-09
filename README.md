@@ -146,8 +146,6 @@
 
 - [ ] [TryHackMe | Memory Forensics](https://tryhackme.com/room/memoryforensics)
 
-- [ ] [TryHackMe | Volatility](https://tryhackme.com/room/bpvolatility)
-
 - [ ] [TryHackMe | Disk Analysis &amp; Autopsy](https://tryhackme.com/room/autopsy2ze0)
 
 ## Reverse Engineering
