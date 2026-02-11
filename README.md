@@ -232,8 +232,6 @@
 
 - [ ] [TryHackMe | Blueprint](https://tryhackme.com/room/blueprint)
 
-- [ ] [TryHackMe | VulnNet: Active](https://tryhackme.com/room/vulnnetactive)
-
 - [ ] [TryHackMe | Anthem](https://tryhackme.com/room/anthem)
 
 - [ ] [TryHackMe | Blue](https://tryhackme.com/room/blue)
@@ -241,6 +239,8 @@
 ## Active Directory
 
 ---
+
+- [ ] [TryHackMe | VulnNet: Active](https://tryhackme.com/room/vulnnetactive)
 
 - [ ] [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
 
