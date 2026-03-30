@@ -14,8 +14,6 @@
 
 - [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/basic-rooms/4.md)
 
-- [ ] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
-
 - [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 
 - [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
