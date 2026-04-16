@@ -14,9 +14,7 @@
 
 - [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/basic-rooms/4.md)
 
-- [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
-
-- [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
+- [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/basic-rooms/5.md)
 
 ## Recon
 
