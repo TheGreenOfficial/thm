@@ -22,7 +22,7 @@
 
 - [ ] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/recon/1.md)
 
-- [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
+- [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/recon/2.md)
 
 - [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
