@@ -240,6 +240,12 @@
 
 - [ ] [TryHackMe | RazorBlack](https://tryhackme.com/room/raz0rblack)
 
+- [ ] [TryHackMe | Soupedecode 01](https://tryhackme.com/room/soupedecode01)
+
+- [ ] [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
+
+- [ ] [TryHackMe | Fusion Corp](https://tryhackme.com/room/fusioncorp)
+
 ## PCAP Analysis
 
 ---
