@@ -24,7 +24,7 @@
 
 - [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/recon/2.md)
 
-- [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
+- [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/recon/3.md)
 
 - [ ] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
