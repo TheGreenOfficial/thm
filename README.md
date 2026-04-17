@@ -40,8 +40,6 @@
 
 - [ ] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
-- [ ] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
-
 - [ ] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
 
 ## Networking
