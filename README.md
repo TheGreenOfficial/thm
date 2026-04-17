@@ -30,8 +30,6 @@
 
 - [ ] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
 
-- [ ] [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
-
 ## Scripting
 
 ---
