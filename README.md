@@ -26,7 +26,7 @@
 
 - [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/recon/3.md)
 
-- [ ] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
+- [ ] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/recon/4.md)
 
 - [ ] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
 
