@@ -28,8 +28,6 @@
 
 - [ ] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/recon/4.md)
 
-- [ ] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
-
 ## Scripting
 
 ---
