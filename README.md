@@ -32,7 +32,7 @@
 
 ---
 
-- [ ] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
+- [ ] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/scripting/1.md)
 
 - [ ] [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
 
