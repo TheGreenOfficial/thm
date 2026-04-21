@@ -34,7 +34,7 @@
 
 - [ ] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/scripting/1.md)
 
-- [ ] [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
+- [ ] [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground) - [Read Writeup](https://github.com/TheGreenOfficial/thm/blob/main/scripting/2.md)
 
 - [ ] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
